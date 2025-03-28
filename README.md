@@ -13,9 +13,8 @@ Explore the visualizations and insights!
 
 ## 📩 Contact
 If you have any questions, suggestions, or collaborations in data visualization, feel free to reach out:
-
-📧 Email: samith.sachi@gmail.com
-🔗 LinkedIn: www.linkedin.com/in/samithchimminiyan
-🌐 Website: www.samithc.com
-
+- 📧 Email: [samith.sachi@gmail.com](mailto:samith.sachi@gmail.com)
+- 🔗 LinkedIn: [www.linkedin.com/in/samithchimminiyan](https://www.linkedin.com/in/samithchimminiyan)
+- 🌐 Website: [www.samithc.com](https://www.samithc.com)
+  
 Let's turn data into powerful insights! 🚀📈
