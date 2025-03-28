@@ -1,4 +1,4 @@
-📊 Power BI Projects
+#📊 Power BI Projects
 Welcome to my Power BI Projects repository! This space showcases various data visualization projects I have created using Power BI, demonstrating my expertise in data storytelling, business intelligence, and analytical reporting.
 
 🔍 About
